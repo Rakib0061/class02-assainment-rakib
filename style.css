@@ -1,0 +1,75 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+section{
+    min-height: 100vh;
+    background-color: #060632;
+ 
+}
+div{
+
+    width: 1000px;
+    margin: auto;
+   
+}
+.header{
+    display: block;
+    margin: auto;
+    margin-bottom: 80px;
+    padding: 24px;}
+.red{
+    display: block;
+    margin: auto;
+}
+.blue{
+    display: block;
+    margin: auto;
+    margin-top:50px ;
+}
+a {
+     width: 245px;
+    color: white;        display: block;
+    font-size: 30px;
+    text-decoration: none;        text-align: center;
+    background-color: #1abf80;
+    margin: auto;
+    padding: 7px;        margin-bottom: 15px;
+    margin-top: 17px;
+    border-radius:18px;
+}
+
+.rakib{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+   font-size: 88px; 
+}
+.akib{
+    color: white;
+    text-align: center;
+    font-size:22px;      font-family: initial;
+    display: block;
+    margin-bottom: 23px;
+}
+.yellow{
+    display: block;
+    margin: auto;
+}
+.chakib{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 87px; 
+    display: block;
+    margin-top: 20px;
+    padding: 20px 0;
+}
+.apple{
+    color: #13ffab;
+
+}
+.orange{
+    color: #ffb326;
+
+}
